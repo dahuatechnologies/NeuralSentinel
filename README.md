@@ -1,4 +1,4 @@
-# 3D Neural Sentinel within Axes Rotation
+# 3D Neural Sentinel within Axe Rotation
 
 ## Complete Feature Summary
 
