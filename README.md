@@ -71,4 +71,4 @@
 - **Real-time updates**: FPS, metrics, status
 - **Color legend**: RGB axes indicators within Alpha Colour Rotation
 
-The system runs in real-time with all components integrated, showing the complete mathematical AI core with autonomous reasoning and beautiful 3D visualization. All requirements from the original code are preserved while adding advanced mathematical foundations, deterministic automatons, AI principles, autonomous reasoning, and enhanced visualization.
+The system runs in real-time with all components integrated, showing the complete mathematical AI core with autonomous reasoning and beautiful 3D visualization within Alpha Colour Rotation. All requirements from the original code are preserved while adding advanced mathematical foundations, deterministic automatons, AI principles, autonomous reasoning, and enhanced visualization.
