@@ -1,1 +1,1 @@
-# NeuralSentinel
+# Neural Sentinel
